@@ -1,2 +1,2 @@
 # curso-html
-repositório para guardar atividades do curso html5 e css3 do cursoemvideo
+repositório para versionar atividades do curso html5 e css3 do cursoemvideo
